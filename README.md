@@ -1,2 +1,2 @@
 # Monke-O.S.
-Arch/Manjaro-Based Distro
+A Unixitry Distrobution
